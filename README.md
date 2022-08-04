@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Tudo certo? Meu nome é Matheus!</h1>
 
--🔥 Desenvolvedor FullStack Jr.
+-🔥 Desenvolvedor FullStack Jr
 
--📚 
+-📚 Fascinado pelo Front-End e as suas possibilidades!
 
 -👨‍💻 Todos os meus projetos estão disponíveis em https://github.com/Spinelli13?tab=repositories
 
@@ -28,12 +28,14 @@
 
 ## ⚙ &nbsp;GitHub Analytics
 
-<img align="left" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api?username=Spinelli13&show_icons=true&theme=radical">
+<img align="center" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api?username=Spinelli13&show_icons=true&theme=radical">
 
-<img align="left" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinelli13&layout=compact&theme=radical"> 
+<img align="center" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinelli13&layout=compact&theme=radical"> 
 
 <br><br>
 
-## ⚙ &nbsp;GitHub Analytics
+## 🔗 &nbsp;Social Links
+
+<img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
