@@ -36,6 +36,7 @@
 
 ## 🔗 &nbsp;Social Links
 
-<img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[![Linedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-spinelli-b86524224/)
+
 
 
