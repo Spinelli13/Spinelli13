@@ -30,7 +30,7 @@
 ## ⚙ &nbsp;GitHub Analytics
 <img align="center" alt="STATS" width="530rem" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spinelli13&theme=radical">
 
-<img align="center" alt="STATS" width="530rem" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spinelli13&theme=radical"> 
+<img align="center" alt="STATS" width="530rem" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spinelli13&theme=radical"> 
 
 <br><br>
 
