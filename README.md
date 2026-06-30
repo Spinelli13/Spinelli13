@@ -1,12 +1,12 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Tudo certo? Meu nome é Matheus!</h1>
 
--🔥 Desenvolvedor FullStack Jr
+-🔥 Desenvolvedor Backend JAVA/GO
 
--📚 Fascinado pelo Front-End e as suas possibilidades!
+-📚 Fascinado pelo backend e as suas possibilidades!
 
 -👨‍💻 Todos os meus projetos estão disponíveis em https://github.com/Spinelli13?tab=repositories
 
--💭 Respondo perguntas sobre **JavaScript, HTML, CSS, SQL, ReactJs**
+-💭 Respondo perguntas sobre **Golang, JAVA, JavaScript, HTML, CSS, SQL, ReactJs**
 
 <br><br>
 
